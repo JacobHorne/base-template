@@ -1,4 +1,4 @@
 <?php
-  $site_name = "Plan Benefits Services";
-  $site_description = "Employee Benefits consulting, management and brokerage firm independently owned and operated since 1986";
+  $site_name = "New Project timezone_location_get()";
+  $site_description = "What is this site About?";
 ?>

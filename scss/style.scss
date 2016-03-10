@@ -1,0 +1,56 @@
+@import "Compass";
+@import "_variables";
+
+/***** CLEARFIX is applied to the parent of floated elements *************/
+/*************************************************************************/
+
+.clearfix {
+    zoom: 1;
+    &:before, &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.hide-me{
+	height:0;
+	opacity:0;
+}
+//Random Image on Reload
+
+/***** SITE STYLES *************/
+/**********************************/
+
+body{
+}
+h2{
+}
+p{
+
+}
+footer{
+}
+
+#activeNav{
+}
+
+#activeSideBar{
+}
+
+/***** SITE STYLES *************/
+/**********************************/
+.wrapper{
+}
+
+.navigation{
+}
